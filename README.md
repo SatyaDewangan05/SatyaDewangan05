@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SatyaDewangan05
 - 👀 A Computer Science Engineer, Full Stack Developer and AI/ML Intern
--     Working on developing cutting edge AI Model
--     Experties in Computer Vision, GAN and NLP using Tensorflow or PyTorch
--     Alway open for Colab and Contribute
+- Working on developing cutting edge AI Model
+- Experties in Computer Vision, GAN and NLP using Tensorflow or PyTorch
+- Alway open for Colab and Contribute
 - Check this out: https://www.linkedin.com/in/satyadewangan/
 
 <!---
